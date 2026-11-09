@@ -14,11 +14,24 @@
                 }
             ],
             "id": "Developer",
-            "minProgramVersion": "26.0.0",
+            "minProgramVersion": "26.0.1-beta1",
             "name": "Developer",
             "releaseDate": "2026-10-29",
             "type": "driver",
             "version": "1.0.1-beta1"
         }
-    ]
+    ],
+    "program": {
+        "changes": [
+            "Описание первого изменения программы",
+            "Описание второго изменения программы"
+        ],
+        "installer": {
+            "sha256": "43c86f6ccbe8d84d315124066b1f1d6d90d5c55f32df63c2c0a2a66f0697c6f0",
+            "size": 77453872,
+            "url": "https://github.com/SANEMA-64/AVC-Service/releases/download/test/setup_AGIS_View_Complex_v26.0.1-beta1.exe"
+        },
+        "releaseDate": "2026-11-02",
+        "version": "26.0.1-beta1"
+    }
 }
