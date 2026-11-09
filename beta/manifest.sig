@@ -2,11 +2,11 @@
     "signatures": [
         {
             "keyId": "AGIS-TEST",
-            "signature": "QBD9umVbM39c/p94nuo7M45p1SLCUFrlcEv+cX37VhubLxu3QSCl29BQQTYQgc22yaMh3usU03uAFWqYQQDIBg=="
+            "signature": "PqW/zCUy844pXvV7O5GL3p0cytwDamuG7U+kQ1rtO2w8Y6UJ02VwBjcSiAHzaOaDEV6iQG+JFUPffeGZMcyBCQ=="
         },
         {
             "keyId": "AGIS-TEST2",
-            "signature": "NHXjTc9NjompwLAAh2jn0+wIvXY06LQf6nT9LTCmept3Jq2qwHOdlGtOUvkBOWajSdxapLziELor4iR55SV9AQ=="
+            "signature": "9wafqmDIoFS7BozSY21OhK5YXU5vvXjrsg7Qa5FRCuVBNpJODpviZx4hrAJhNMFEsbUeKMBAii+nqOHTJeoOAg=="
         }
     ]
 }
