@@ -1,12 +1,12 @@
 {
     "signatures": [
         {
-            "keyId": "AGIS-TEST",
-            "signature": "PqW/zCUy844pXvV7O5GL3p0cytwDamuG7U+kQ1rtO2w8Y6UJ02VwBjcSiAHzaOaDEV6iQG+JFUPffeGZMcyBCQ=="
+            "keyId": "AGIS-MAIN",
+            "signature": "35D9L1RXUpaJ2wf9TPbq0sFwy/k6Zse4uLUpfxxGRNOleCHD8rZx+S6gqjSAoApBB7tGz30DcajbZEJoZHroBg=="
         },
         {
-            "keyId": "AGIS-TEST2",
-            "signature": "9wafqmDIoFS7BozSY21OhK5YXU5vvXjrsg7Qa5FRCuVBNpJODpviZx4hrAJhNMFEsbUeKMBAii+nqOHTJeoOAg=="
+            "keyId": "AGIS-RESERVE",
+            "signature": "uu+7tko5Et/VM80dC50j21UHhHyU3//JQq+r+K+Wsr8L7pguRzQZ26hJhSHxjCj7QvITJoKW7iCXQHAP2iQyBw=="
         }
     ]
 }

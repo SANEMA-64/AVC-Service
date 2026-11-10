@@ -1,37 +1,5 @@
 {
     "format": 1,
     "modules": [
-        {
-            "changes": [
-                "Описание изменения драйвера (файл в репозитории, нужна новая версия программы)"
-            ],
-            "files": [
-                {
-                    "file": "modules/Developer/1.0.1-beta1/Developer.dll",
-                    "path": "plugins/devices/Developer.dll",
-                    "sha256": "2187e7e5d9209117beb81feaa344582ab813345b1a860b51a91ee43d9b713a75",
-                    "size": 5891584
-                }
-            ],
-            "id": "Developer",
-            "minProgramVersion": "26.0.1-beta1",
-            "name": "Developer",
-            "releaseDate": "2026-11-09",
-            "type": "driver",
-            "version": "1.0.1-beta1"
-        }
-    ],
-    "program": {
-        "changes": [
-            "Описание первого изменения программы",
-            "Описание второго изменения программы"
-        ],
-        "installer": {
-            "sha256": "b3b838ad7c022950308e36f75a066a32f8c747dafad9bf4978fcccaed6f277b4",
-            "size": 77475531,
-            "url": "https://github.com/SANEMA-64/AVC-Service/releases/download/test/setup_AGIS_View_Complex_v26.0.1-beta1.exe"
-        },
-        "releaseDate": "2026-11-09",
-        "version": "26.0.1-beta1"
-    }
+    ]
 }
